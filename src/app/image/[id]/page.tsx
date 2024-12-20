@@ -35,12 +35,6 @@ const images = [
     categoryId: 1,
   },
   {
-    id: 8,
-    src: "/concepts&Ideas/6.jpg",
-    alt: "Image 8",
-    categoryId: 1,
-  },
-  {
     id: 5,
     src: "/concepts&Ideas/7.jpg",
     alt: "Image 5",
