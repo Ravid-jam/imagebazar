@@ -246,7 +246,7 @@ export default function page({ params }: { params: { id: string } }) {
 
   return (
     <div>
-      <div className="columns-2  py-4 px-6">
+      <div className="columns-1 md:columns-2  py-4 px-6">
         {images
           .filter((item) => item.categoryId === JSON.parse(params.id))
           .map((image, index) => (
